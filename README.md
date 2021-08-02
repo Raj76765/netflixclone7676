@@ -6,3 +6,9 @@ ________________________________________________________________________________
 For any kind of further query 
 contact : anuragkumar7676581@gmail.com
 note: create your own TMDB api key don't copy mine it may result crash
+TECHNOLOGY USED=(Tech)=>{
+1. React js
+2. Axios for APi call
+3. TMDB for LIVE data
+4. Firebase for hosting
+}
