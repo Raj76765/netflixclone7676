@@ -1,5 +1,5 @@
 # netflixclone7676
-i have moved the components a seperate folder 
+i have moved the components to  a seperate folder 
 if you faced any issue in using this than kindly adjust the import ${file path} according to you
 OR you can just bring out all the component to the main src folder if you are unable to change the import path
 ____________________________________________________________________________________________________________
